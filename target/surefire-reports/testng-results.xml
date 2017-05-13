@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="44" started-at="2017-05-13T15:23:51Z" finished-at="2017-05-13T15:23:51Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="44" started-at="2017-05-13T15:23:51Z" finished-at="2017-05-13T15:23:51Z">
+      <class name="com.raksit.assignment4.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(com.raksit.assignment4.AppTest)]" name="testApp" duration-ms="5" started-at="2017-05-13T15:23:51Z" finished-at="2017-05-13T15:23:51Z">
+        </test-method> <!-- testApp -->
+      </class> <!-- com.raksit.assignment4.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
